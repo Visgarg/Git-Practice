@@ -6,7 +6,7 @@ namespace git_practice_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("hello World!");
             Console.WriteLine("Hello Vishal!");
         }
     }
